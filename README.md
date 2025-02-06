@@ -16,6 +16,4 @@ Welcome to **Travel Destinations**, a responsive website showcasing the world's 
 
 
 ## 🚀 How to Run
-1. Clone the repository:
-   ```sh
- https://github.com/mohit4755/L1-t1
+1. Clone the repository: https://github.com/mohit4755/L1-t1
